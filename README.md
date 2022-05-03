@@ -1,5 +1,5 @@
-<h1>- 👋 Hi, I’m @dkaygisiz</h1>
-- 👀 I’m interested in Frontend Developing
-- 🌱 I’m currently learning HTML, CSS and Javascript
-- 💞️ I’m looking to get real life examples of frontend development.
-- 📫 You can reach me at: kemaldogukankaygisiz@gmail.com
+<p><h1>- 👋 Hi, I’m @dkaygisiz</h1></p>
+<p>- 👀 I’m interested in Frontend Developing</p>
+<p>- 🌱 I’m currently learning HTML, CSS and Javascript</p>
+<p>- 💞️ I’m looking to get real life examples of frontend development.</p>
+<p>- 📫 You can reach me at: kemaldogukankaygisiz@gmail.com</p>
