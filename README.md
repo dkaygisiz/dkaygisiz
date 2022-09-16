@@ -1,7 +1,7 @@
 <p><h1>- 👋 Hi, I’m Doğukan</h1></p>
 
-<p>Greetings,
-Eager to learn and study Computer Science, learning things that’ll help me to find the right path on development side of the business. I 
+<p>Greetings,</p><br /> 
+<p>Eager to learn and study Computer Science, learning things that’ll help me to find the right path on development side of the business. I 
 worked as an SAP EWM Consultant for a short amount of time. After that, i took “Sebit Frontend 
 Bootcamp” from Coderspace. Right now, I am improving myself in React, with Practicums from 
 Patika.dev and courses from Udemy and Scrimba. I am looking for a job that will improve myself and 
